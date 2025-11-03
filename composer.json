@@ -1,0 +1,22 @@
+{
+    "name": "angegroup/permissions",
+    "description": "Permissions is an API developed by AngeGroup. This API enable to use custom command system.",
+    "type": "library",
+    "require-dev": {
+        "pocketmine/pocketmine-mp": "dev-stable"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "permissions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dumont-Julien",
+            "email": "dumontj357@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
